@@ -4,7 +4,7 @@ import math
 import matplotlib.pyplot as plt
 
 
-def load_species_data(filename="/Users/zarasrose/Documents/School/Summer2025/cs-projects/McKinsey/Ecosystem/species_data.json"):
+def load_species_data(filename="species_data.json"):
     """Load species data from a local JSON file using absolute path."""
     with open(filename, 'r') as f:
         return json.load(f)
