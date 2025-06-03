@@ -1,0 +1,78 @@
+[  
+  {
+    "name": "Brown Grass",
+    "type": "producer",
+    "calories_needed": 0,
+    "calories_provided": 5380,
+    "food_source": "null",
+    "eaten_by": [
+      "White Mouse",
+      "Dodo Bird"
+    ]
+  },
+  {
+    "name": "Green Mushroom",
+    "type": "producer",
+    "calories_needed": 0,
+    "calories_provided": 4250,
+    "food_source": "null",
+    "eaten_by": [
+      "White Mouse", "Red Deer", "Wild Boar", "African Wildcat", "Black Mamba"
+    ]
+  },
+  {
+    "name": "Puff Ball",
+    "type": "producer",
+    "calories_needed": 0,
+    "calories_provided": 4130,
+    "food_source": "null",
+    "eaten_by": [
+      "White Mouse", "African Wildcat"
+    ]
+  },
+  {
+    "name": "African Wildcat",
+    "type": "consumer",
+    "calories_needed": 3650,
+    "calories_provided": 3750,
+    "food_source": "null",
+    "eaten_by": [
+      "King Cobra", "Spotted Hyena"
+    ]
+  },
+  {
+    "name": "White Mouse",
+    "type": "consumer",
+    "calories_needed": 3530,
+    "calories_provided": 2680,
+    "food_source": "null",
+    "eaten_by": [
+      "African Wildcat", "Bengal Tiger"
+    ]
+  },
+  {
+    "name": "Bengal Tiger",
+    "type": "consumer",
+    "calories_needed": 2350,
+    "calories_provided": 3100,
+    "food_source": "null",
+    "eaten_by": []
+  },
+  {
+    "name": "King Cobra",
+    "type": "consumer",
+    "calories_needed": 1650,
+    "calories_provided": 2700,
+    "food_source": "null",
+    "eaten_by": ["Spotted Hyena"]
+  },
+  {
+    "name": "Spotted Hyena",
+    "type": "consumer",
+    "calories_needed": 2600,
+    "calories_provided": 2000,
+    "food_source": "null",
+    "eaten_by": []
+  }
+
+]

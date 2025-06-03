@@ -1,0 +1,124 @@
+[
+  {
+    "name": "Brown Grass",
+    "type": "producer",
+    "calories_needed": 0,
+    "calories_provided": 5380,
+    "food_source": "null",
+    "eaten_by": [
+      "White Mouse",
+      "Dodo Bird"
+    ]
+  },
+  {
+    "name": "Green Mushroom",
+    "type": "producer",
+    "calories_needed": 0,
+    "calories_provided": 4250,
+    "food_source": "null",
+    "eaten_by": [
+      "White Mouse", "Red Deer", "Wild Boar", "African Wildcat", "Black Mamba"
+    ]
+  },
+  {
+    "name": "Puff Ball",
+    "type": "producer",
+    "calories_needed": 0,
+    "calories_provided": 4130,
+    "food_source": "null",
+    "eaten_by": [
+      "White Mouse", "African Wildcat"
+    ]
+  },
+  {
+    "name": "African Wildcat",
+    "type": "consumer",
+    "calories_needed": 3650,
+    "calories_provided": 3750,
+    "food_source": "null",
+    "eaten_by": [
+      "King Cobra", "Spotted Hyena"
+    ]
+  },
+  {
+    "name": "White Mouse",
+    "type": "consumer",
+    "calories_needed": 3530,
+    "calories_provided": 2680,
+    "food_source": "null",
+    "eaten_by": [
+      "African Wildcat", "Bengal Tiger"
+    ]
+  },
+  {
+    "name": "Dodo Bird",
+    "type": "consumer",
+    "calories_needed": 4300,
+    "calories_provided": 1450,
+    "food_source": "null",
+    "eaten_by": [
+      "Bengal Tiger"
+    ]
+  },
+  {
+    "name": "Red Deer",
+    "type": "consumer",
+    "calories_needed": 4850,
+    "calories_provided": 900,
+    "food_source": "null",
+    "eaten_by": [
+      "African Wildcat", "Megalosaurus", "Spotted Hyena"
+    ]
+  },
+  {
+    "name": "Wild Boar",
+    "type": "consumer",
+    "calories_needed": 5400,
+    "calories_provided": 3800,
+    "food_source": "null",
+    "eaten_by": [
+      "Black Mamba"
+    ]
+  }
+  ,
+  {
+    "name": "Bengal Tiger",
+    "type": "consumer",
+    "calories_needed": 2350,
+    "calories_provided": 3100,
+    "food_source": "null",
+    "eaten_by": []
+  },
+  {
+    "name": "Black Mamba",
+    "type": "consumer",
+    "calories_needed": 3400,
+    "calories_provided": 1610,
+    "food_source": "null",
+    "eaten_by": ["King Cobra"]
+  },
+  {
+    "name": "King Cobra",
+    "type": "consumer",
+    "calories_needed": 1650,
+    "calories_provided": 2700,
+    "food_source": "null",
+    "eaten_by": ["Spotted Hyena"]
+  },
+  {
+    "name": "Megalosaurus",
+    "type": "consumer",
+    "calories_needed": 5000,
+    "calories_provided": 2000,
+    "food_source": "null",
+    "eaten_by": []
+  },
+  {
+    "name": "Spotted Hyena",
+    "type": "consumer",
+    "calories_needed": 2600,
+    "calories_provided": 2000,
+    "food_source": "null",
+    "eaten_by": []
+  }
+]

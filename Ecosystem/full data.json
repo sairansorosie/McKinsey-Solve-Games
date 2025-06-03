@@ -1,0 +1,20 @@
+  {
+    "name": "African Wildcat",
+    "type": "consumer",
+    "calories_needed": 3650,
+    "calories_provided": 3750,
+    "food_source": "null",
+    "eaten_by": [
+      "King Cobra", "Spotted Hyena"
+    ]
+  },
+  {
+    "name": "White Mouse",
+    "type": "consumer",
+    "calories_needed": 3530,
+    "calories_provided": 2680,
+    "food_source": "null",
+    "eaten_by": [
+      "African Wildcat", "Bengal Tiger"
+    ]
+  },

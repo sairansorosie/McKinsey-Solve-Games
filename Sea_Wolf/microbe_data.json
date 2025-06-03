@@ -1,0 +1,58 @@
+[
+  {
+    "name": "79",
+    "permeability": 1,
+    "mobility": 1,
+    "energy": 8,
+    "desireable": []
+  },
+  {
+    "name": "70",
+    "permeability": 4,
+    "mobility": 2,
+    "energy": 8,
+    "desireable": []
+  },
+  {
+    "name": "65",
+    "permeability": 5,
+    "mobility": 4,
+    "energy": 3,
+    "desireable": ["Aerobic"]
+  },
+  {
+    "name": "20",
+    "permeability": 1,
+    "mobility": 1,
+    "energy": 7,
+    "desireable": ["Heat Resistant"]
+  },
+  {
+    "name": "88",
+    "permeability": 2,
+    "mobility": 2,
+    "energy": 7,
+    "desireable": ["Heat Resistant"]
+  },
+  {
+    "name": "4",
+    "permeability": 2,
+    "mobility": 4,
+    "energy": 7,
+    "desireable": []
+  },
+  {
+    "name": "54",
+    "permeability": 10,
+    "mobility": 9,
+    "energy": 3,
+    "desireable": ["Aerobic"]
+  },
+  {
+    "name": "10",
+    "permeability": 8,
+    "mobility": 4,
+    "energy": 7,
+    "desireable": ["Aerobic"]
+  }
+]
